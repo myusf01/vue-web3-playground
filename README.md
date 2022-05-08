@@ -1,24 +1,5 @@
-# web3-mk2
+# web3 playground (vue2) 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is an experimental project to work on web3 based frontend applications.
+It was really hard to start development, I think it took about 3-4 days for me to figure out how to get things work with Vue,
+how and where should I begin. Guides on internet was not so clear and updated. This repository will contain base blocks to work with.
