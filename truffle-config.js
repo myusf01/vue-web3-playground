@@ -112,6 +112,6 @@ module.exports = {
   //     directory: ".db"
   //   }
   // }
-  // }
+  // }.
   contracts_build_directory: './src/contracts'
 }
